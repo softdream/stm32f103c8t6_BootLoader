@@ -1,0 +1,2 @@
+# stm32f103c8t6_BootLoader
+本项目提供了一个STM32F103C8T6的BootLoader引导程序，旨在实现单片机的OTA功能。本项目也提供了一个windows环境下的验证程序，可以通过串口或蓝牙将bin文件发给单片机实现在线升级的功能。
