@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\my_program\vs_program\发送bin文件_test2\串口\main.cpp(42): warning C4244: “初始化”: 从“std::streamoff”转换到“unsigned int”，可能丢失数据
+d:\my_program\vs_program\发送bin文件_test2\串口\main.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+  串口.vcxproj -> D:\My_Program\vs_program\发送bin文件_test2\Debug\串口.exe
+  串口.vcxproj -> D:\My_Program\vs_program\发送bin文件_test2\Debug\串口.pdb (Full PDB)

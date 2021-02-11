@@ -1,0 +1,11 @@
+..\obj\stmflash.o: ..\HARDWARE\STMFLASH\stmflash.c
+..\obj\stmflash.o: ..\HARDWARE\STMFLASH\stmflash.h
+..\obj\stmflash.o: ..\SYSTEM\sys\sys.h
+..\obj\stmflash.o: ..\USER\stm32f10x_map.h
+..\obj\stmflash.o: ..\USER\stm32f10x_conf.h
+..\obj\stmflash.o: ..\USER\stm32f10x_type.h
+..\obj\stmflash.o: ..\USER\cortexm3_macro.h
+..\obj\stmflash.o: ..\USER\stm32f10x_nvic.h
+..\obj\stmflash.o: ..\SYSTEM\delay\delay.h
+..\obj\stmflash.o: ..\SYSTEM\usart\usart.h
+..\obj\stmflash.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

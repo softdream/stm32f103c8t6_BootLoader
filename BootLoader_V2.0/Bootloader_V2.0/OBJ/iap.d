@@ -1,0 +1,12 @@
+..\obj\iap.o: ..\IAP\iap.c
+..\obj\iap.o: ..\SYSTEM\sys\sys.h
+..\obj\iap.o: ..\USER\stm32f10x_map.h
+..\obj\iap.o: ..\USER\stm32f10x_conf.h
+..\obj\iap.o: ..\USER\stm32f10x_type.h
+..\obj\iap.o: ..\USER\cortexm3_macro.h
+..\obj\iap.o: ..\USER\stm32f10x_nvic.h
+..\obj\iap.o: ..\SYSTEM\delay\delay.h
+..\obj\iap.o: ..\SYSTEM\usart\usart.h
+..\obj\iap.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\iap.o: ..\HARDWARE\STMFLASH\stmflash.h
+..\obj\iap.o: ..\IAP\iap.h

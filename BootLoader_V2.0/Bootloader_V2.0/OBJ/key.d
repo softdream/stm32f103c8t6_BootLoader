@@ -1,0 +1,9 @@
+..\obj\key.o: ..\HARDWARE\KEY\key.c
+..\obj\key.o: ..\HARDWARE\KEY\key.h
+..\obj\key.o: ..\SYSTEM\sys\sys.h
+..\obj\key.o: ..\USER\stm32f10x_map.h
+..\obj\key.o: ..\USER\stm32f10x_conf.h
+..\obj\key.o: ..\USER\stm32f10x_type.h
+..\obj\key.o: ..\USER\cortexm3_macro.h
+..\obj\key.o: ..\USER\stm32f10x_nvic.h
+..\obj\key.o: ..\SYSTEM\delay\delay.h
